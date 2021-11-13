@@ -1,0 +1,5 @@
+names:
+- golfball
+nc: 1
+train: ball-1/train/images
+val: ball-1/valid/images
